@@ -1,0 +1,5 @@
+export {default as NavBar} from './NavBar'
+export {default as Hero} from './Hero'
+export {default as Article} from './Article'
+export {default as Subscribe} from './Subscribe'
+export {default as Footer} from './Footer'
