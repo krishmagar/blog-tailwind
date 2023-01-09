@@ -1,5 +1,6 @@
 import React from 'react'
 import { BsFillArrowRightCircleFill } from 'react-icons/bs'
+
 const Subscribe = () => {
   return (
     <div className='flex flex-col items-center mx-auto my-0 w-[300px] h-fit gap-5 rounded-[20px] p-[30px] bg-black-gradient shadow-xl sm:w-[450px] lg:w-[650px] '>

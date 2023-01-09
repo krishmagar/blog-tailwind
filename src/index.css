@@ -24,8 +24,3 @@ html {
 .bg-black-gradient {
   background: linear-gradient(144.39deg, #FFFFFF -278.56%, #6D6D6D -78.47%, #11101D 91.61%);
 }
-
-body {
-  max-width: 1200px;
-  margin: 0 auto;
-}
